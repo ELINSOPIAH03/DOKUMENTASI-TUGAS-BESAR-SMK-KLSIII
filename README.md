@@ -8,3 +8,6 @@ Ekspor impor database, membuat hello world dengan konsep mvc sederhana, membuat 
 Konsep dasar oop dengan php, membuat crud dengan konsep mvc, membuat hello world menggunakan codeigniter, membuat static pages pada codeigniter, 
 Menginstal android studio, android studio (android widget), activity pada android studio, user interface (ui) pada android studio, 
 Membuat kalkulator sedrhana penghitungan volume bangun ruang
+
+siapa tau berguna suatu saat nanti
+
